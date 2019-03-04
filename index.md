@@ -2,122 +2,19 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**联系人： 汤女士**
+**联系电话： 13487576994**
 
-[Link to another page](./another-page.html).
+[长沙报废汽车回收有限公司主页](http://www.csbfqc.com).
 
-There should be whitespace between paragraphs.
+# 公司简介
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+长沙报废汽车回收有限公司成立于2001年4月，首批获得了国家颁发的《报废汽车回收企业资格认定书》， 通过了浏阳市环保局的验收，取得了《排放污染物许可证》，公司注册资金为491万元，占地50亩，拆解中心位于长沙市浏阳永安镇红旗村，历年来公司累计投资1000多万元用于合理升级改造，全面完善了场内设施设备及人员配置，具备一支由68人组成的专业回收队伍和较为先进的拆解生产线，年拆解能力大幅提升到2万吨以上，公司坚持“诚信为本”的理念，免费上门拖车，竭诚为各车主提供车辆报废的全方位服务。
 
-# Header 1
+## 公司地址
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+> 湖南浏阳制造产业基地永阳路1号415办公室
 
-## Header 2
+### 营业执照
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+![营业执照](http://www.csbfqc.com/Content/UploadFiles/image/20171124/20171124222347_9732.jpg)
