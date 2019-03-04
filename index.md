@@ -5,7 +5,7 @@ layout: default
 # 联系人： 汤女士
 # 联系电话： 13487576994
 
-[长沙报废汽车回收有限公司主页](http://www.csbfqc.com)
+[长沙报废汽车回收有限公司官方主页](http://www.csbfqc.com)
 
 ## 公司简介
 
